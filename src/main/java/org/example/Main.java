@@ -23,9 +23,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        testSpark();
-
         testHGClient();
+
+        testSpark();
     }
 
     private static void testHGClient() {
